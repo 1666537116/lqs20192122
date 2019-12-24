@@ -15,8 +15,8 @@ public class CheckIn implements Serializable {
     private Date checkinTime ;//入住时间
     private String cardtype ;//证件类型
     private String cardno;//    证件编号
-    private  String state;//状态
-    private  Room room;//入住的房间0000000000
+    private  String state;
+    private  Room room;//入住的房间
 
     public String getState() {
         return state;
