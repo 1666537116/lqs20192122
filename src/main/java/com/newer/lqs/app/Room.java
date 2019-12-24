@@ -5,7 +5,7 @@ package com.newer.lqs.app;
  * @date 2019/12/22 - 16:35
  */
 public class Room {
-  private String  roomid;//  房间号11
+  private String  roomid;//  房间号1111
     private Integer num;//     入住天数
     private  Integer  price ;// 房间单价
     private Integer state ;//   结账状态（0：未结账，1：已结账）
