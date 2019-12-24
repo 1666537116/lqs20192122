@@ -8,11 +8,11 @@ import java.sql.Date;
  * @date 2019/12/22 - 16:31
  */
 public class CheckIn implements Serializable {
-  private  Integer cid;// 入住编号
+  private  Integer cid;
     private  Integer id;
-    private String name;// 客人姓名cid 入住编号
-    private String sex ;//性别
-    private Date checkinTime ;//入住时间
+    private String name;
+    private String sex ;
+    private Date checkinTime ;
     private String cardtype ;//证件类型
     private String cardno;//    证件编号
     private  String state;
